@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav style={navStyle}>
       <Link to="/">Home</Link>
-      <Link to="/users">All Users</Link>
+      <Link to="/users">For All Users</Link>
       <Link to="/posts">All Posts</Link>
     </nav>
   );
